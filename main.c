@@ -5,7 +5,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, MSUD!\n");
+
+    printf("Hello, MSUD!\n It works");
 
     return 0;
 }
